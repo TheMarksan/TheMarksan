@@ -1,5 +1,9 @@
 ### Olá, eu sou Marcos! 👋 <hr>
 
+<div style="display: inline-block;">
+    <img align="center" src="https://media.discordapp.net/attachments/784229787492679690/1084573597793800283/images.jpg" alt="home">
+</div><br>
+
 ![Marksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&show_icons=true&theme=onedark&text_color=FFFFFF&icon_color=C7A96F&border_color=C7A96F) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMarksan&layout=compact&theme=onedark&text_color=FFFFFF&icon_color=C7A96F&border_color=C7A96F)](https://github.com/TheMarksan/github-readme-stats)
 
 ## Front-End Skills 
