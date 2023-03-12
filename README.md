@@ -1,6 +1,8 @@
-### Olá, eu sou Marcos! 👋
+### Olá, eu sou Marcos! 👋 <hr>
 
-![Marksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&show_icons=true&theme=onedark&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMarksan&layout=compact&theme=onedark&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700)](https://github.com/TheMarksan/github-readme-stats)
+![Marksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&show_icons=true&theme=onedark&text_color=FFFFFF&icon_color=C7A96F&border_color=C7A96F) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMarksan&layout=compact&theme=onedark&text_color=FFFFFF&icon_color=C7A96F&border_color=C7A96F)](https://github.com/TheMarksan/github-readme-stats)
+
+## Front-End Skills 
 <div style="display: inline-block;"><br>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
