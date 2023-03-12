@@ -14,3 +14,5 @@
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
     <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
 </div>
+
+![Snake animation](https://github.com/TheMarksan/TheMarksan/blob/output/github-snake.svg)
