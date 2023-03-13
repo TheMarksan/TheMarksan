@@ -4,8 +4,7 @@
     <img align="center" src="https://media.discordapp.net/attachments/784229787492679690/1084574595757133834/Screenshot_20230312-173318-010.png" alt="home">
 </div><br>
 
-![Marksan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&show_icons=true&theme=onedark&text_color=FFFFFF&icon_color=C7A96F&border_color=C7A96F) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMarksan&layout=compact&theme=onedark&text_color=FFFFFF&icon_color=C7A96F&border_color=C7A96F)](https://github.com/TheMarksan/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&border_color=C7A86E&bg_color=FFFFFF&text_color=000000)](https://github.com/TheMarksan/github-readme-stats)
 
 ## Front-End Skills 
 <div style="display: inline-block;">
