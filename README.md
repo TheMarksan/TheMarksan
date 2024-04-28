@@ -25,7 +25,4 @@
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=B58D31)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=B58D31)
 
-## Frameworks
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-
 ![Snake animation](https://github.com/TheMarksan/TheMarksan/blob/output/github-contribution-grid-snake.svg)
