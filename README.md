@@ -14,12 +14,9 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMarksan&bg_color=000&border_color=B58D31&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars&layout=compact)
 
-## Front-End Skills
+## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=B58D31)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=B58D31)
-
-
-## Back-End Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=B58D31)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=B58D31)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=B58D31)
