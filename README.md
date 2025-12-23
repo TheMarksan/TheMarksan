@@ -1,5 +1,5 @@
 ## Olá, eu sou Marcos! 🖖
-<p>Computer Science student & Software Developer at SEDUC</p>
+<p>Computer Science student & Software Developer at SEDUC/AL</p>
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B58D31)](https://www.linkedin.com/in/marcos-melo-dos-santos-b56290139/)
