@@ -6,13 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=B58D31)](mailto:mms7@ic.ufal.br)
 
 
-
-## Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMarksan&layout=compact&theme=dark)
-
-
 ## Languages / SGBDs
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=B58D31)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=B58D31)
