@@ -9,7 +9,8 @@
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheMarksan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMarksan&layout=compact&theme=dark)
 
 
 ## Languages / SGBDs
