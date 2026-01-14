@@ -6,15 +6,11 @@
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=B58D31)](mailto:mms7@ic.ufal.br)
 
 
-<div style="display: inline-block;">
-    <img width="400px" border="1px solid" align="center" src="https://media.discordapp.net/attachments/784229787492679690/1084574595757133834/Screenshot_20230312-173318-010.png" alt="home">
-</div><br>
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMarksan&theme=transparent&bg_color=000&border_color=B58D31&show_icons=true&icon_color=B58D31&title_color=B58D31&text_color=fff&hide_title=true&hide=stars)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheMarksan&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMarksan&bg_color=000&border_color=B58D31&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars&layout=compact)
 
 ## Languages / SGBDs
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=B58D31)
