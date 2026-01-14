@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=B58D31)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=B58D31)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=B58D31)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=B58D31)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=B58D31)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=B58D31)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=B58D31)
