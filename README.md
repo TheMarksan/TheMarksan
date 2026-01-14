@@ -2,7 +2,7 @@
 <p>Computer Science student & Software Developer at SEDUC/AL</p>
 
 <p align="center">
-  <img src="assets/dev-batman.gif" width="700"/>
+  <img src="assets/dev-batman.gif" width="500"/>
 </p>
 
 ## Conecte-se comigo 
