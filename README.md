@@ -1,6 +1,11 @@
 ## Olá, eu sou Marcos! 🖖
 <p>Computer Science student & Software Developer at SEDUC/AL</p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x3aGg4MXVtdmpqaGl5Zmhtdjh5bG5sZ3pkdnZueXNwemZobTI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OAxIp1I9s8qu48f3Xu/giphy.gif" alt="Meu GIF">
+</p>
+
+
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=B58D31)](https://www.linkedin.com/in/marcos-melo-dos-santos-b56290139/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=B58D31)](mailto:mms7@ic.ufal.br)
