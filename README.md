@@ -9,7 +9,7 @@
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheMarksan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheMarksan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) 
 
 
 ## Languages / SGBDs
